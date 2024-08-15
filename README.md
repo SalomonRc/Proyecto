@@ -1,2 +1,2 @@
 # Proyecto
-Proyecto de programnacion de lamaestra ana
+Proyecto de programnacion de la maestra ana
